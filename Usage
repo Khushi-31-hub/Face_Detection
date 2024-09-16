@@ -1,0 +1,8 @@
+Usage
+Run the application using:
+
+bash
+
+python face_detection_app.py
+A window will open displaying the video feed from your webcam with rectangles drawn around detected faces. Press q to close the application.
+
