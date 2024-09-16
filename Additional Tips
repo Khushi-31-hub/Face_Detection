@@ -1,0 +1,11 @@
+
+- Add Documentation: Include detailed comments in your code and explanations in the README to make it easier for others to understand and use your application.
+
+- Provide Example: If possible, provide example images or videos in the example_images directory.
+
+- License: Include a license file to clarify the terms under which others can use and contribute to your project. The MIT License is a popular choice for open-source projects.
+
+By following these steps and providing detailed documentation, you'll make it easier for others to understand, use, and contribute to your face detection app.
+
+
+
