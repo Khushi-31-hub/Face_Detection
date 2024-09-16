@@ -1,0 +1,12 @@
+requirements.txt
+
+List all the dependencies for your project. For your face detection app, it would typically include:
+
+
+opencv-python
+
+You can generate this file automatically by running:
+
+bash
+
+pip freeze > requirements.txt
