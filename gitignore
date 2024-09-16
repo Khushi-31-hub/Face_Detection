@@ -1,0 +1,12 @@
+.gitignore
+
+This file specifies which files and directories to ignore in version control. For Python projects, a common .gitignore might look like this:
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+.vscode/
